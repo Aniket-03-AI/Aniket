@@ -47,6 +47,3 @@ The project contains the following components:
 ## Author
 Aniket Palandi (Aniket-03-AI)
 
----
-This **statement.md** file provides a clear explanation of the project's purpose, structure, and usage.
-
